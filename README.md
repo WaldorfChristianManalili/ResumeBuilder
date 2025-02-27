@@ -1,3 +1,5 @@
+# ResumeBuilder
+Resume builder using C# and .NET.
 ResumeBuilder/
 ├── src/
 │   ├── ResumeBuilder.API/                  # Web API project
