@@ -1,0 +1,11 @@
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\bin\Debug\net9.0\ResumeBuilder.Core.deps.json
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\bin\Debug\net9.0\ResumeBuilder.Core.dll
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\bin\Debug\net9.0\ResumeBuilder.Core.pdb
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.AssemblyInfoInputs.cache
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.AssemblyInfo.cs
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.dll
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\obj\Debug\net9.0\refint\ResumeBuilder.Core.dll
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\obj\Debug\net9.0\ResumeBuilder.Core.pdb
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Core\obj\Debug\net9.0\ref\ResumeBuilder.Core.dll

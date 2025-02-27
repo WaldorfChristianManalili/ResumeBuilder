@@ -1,0 +1,15 @@
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\bin\Debug\net9.0\ResumeBuilder.Infrastructure.deps.json
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\bin\Debug\net9.0\ResumeBuilder.Infrastructure.dll
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\bin\Debug\net9.0\ResumeBuilder.Infrastructure.pdb
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\bin\Debug\net9.0\ResumeBuilder.Core.dll
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\bin\Debug\net9.0\ResumeBuilder.Core.pdb
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ResumeBuilder.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ResumeBuilder.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ResumeBuilder.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ResumeBuilder.Infrastructure.AssemblyInfo.cs
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ResumeBuilder.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ResumeBu.6FEFC950.Up2Date
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ResumeBuilder.Infrastructure.dll
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\refint\ResumeBuilder.Infrastructure.dll
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ResumeBuilder.Infrastructure.pdb
+C:\Users\blanc\Downloads\C# .NET\src\ResumeBuilder.Infrastructure\obj\Debug\net9.0\ref\ResumeBuilder.Infrastructure.dll
